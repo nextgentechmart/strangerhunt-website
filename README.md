@@ -18,8 +18,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Authors
 
-* **NextGenTechMart Engineering** - *Initial work* - [PurpleBooth](https://github.com/nextgentechmart)
+* **NextGenTechMart Engineering** - *Initial work* - [NextGenTechMart](https://github.com/nextgentechmart)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/nextgentechmart/strangerhunt-website/blob/main/LICENSE) file for details
