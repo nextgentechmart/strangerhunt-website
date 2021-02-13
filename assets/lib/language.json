@@ -1,0 +1,49 @@
+[{
+        "countryCode": "RO",
+        "text": {
+            "welcome": "Bună, Bine ați venit la <strong> strangerhunt.com </strong>",
+            "landing": "Alăturați-vă comunității noastre de single-uri mature și găsiți o conexiune caldă și semnificativă. </br> Piscină de întâlniri de cea mai înaltă calitate.",
+            "joinNowFree": "Alatura-te acum pe gratis",
+            "findNowFree": "Găsește acum gratuit",
+            "discover": "Descopera mai mult",
+            "section1Header": "Un instrument puternic de căutare care permite filtrarea single-urilor în funcție de ceea ce contează",
+            "section1Desc": "Pe baza intereselor dvs., ne asigurăm că găsiți ceea ce aveți nevoie.</br>Dacă știți deja pe cine doriți să cunoașteți, îi puteți găsi folosind poreclele lor."
+        }
+    },
+    {
+        "countryCode": "IT",
+        "text": {
+            "welcome": "Ciao, benvenuto su <strong> strangerhunt.com </strong>",
+            "landing": "Unisciti alla nostra community di single maturi e trova un legame caldo e significativo. </br> Pool di incontri di altissima qualità.",
+            "joinNowFree": "Unisciti adesso gratuitamente",
+            "findNowFree": "Trova ora gratuitamente",
+            "discover": "Scopri di più",
+            "section1Header": "Un potente strumento di ricerca che consente ai single di filtrare in base a ciò che conta",
+            "section1Desc": "In base ai tuoi interessi, ci assicuriamo che tu trovi ciò di cui hai bisogno. </br> Se sai già chi vuoi incontrare, puoi trovarli usando i loro soprannomi."
+        }
+    },
+    {
+        "countryCode": "CH",
+        "text": {
+            "welcome": "Bonjour, Bienvenue sur <strong> strangerhunt.com",
+            "landing": "Rejoignez notre communauté de célibataires matures et trouvez une connexion chaleureuse et significative. </br> Piscine de rencontres de la plus haute qualité.",
+            "joinNowFree": "Rejoins maintenant gratuitement",
+            "findNowFree": "Trouvez maintenant gratuitement",
+            "discover": "Découvrir plus",
+            "section1Header": "Un outil de recherche puissant qui permet aux célibataires de filtrer en fonction de ce qui compte",
+            "section1Desc": "En fonction de vos intérêts, nous nous assurons que vous trouviez ce dont vous avez besoin. </br> Si vous savez déjà qui vous souhaitez rencontrer, vous pouvez les trouver en utilisant leurs surnoms."
+        }
+    },
+    {
+        "countryCode": "FR",
+        "text": {
+            "welcome": "Bonjour, Bienvenue sur <strong> strangerhunt.com",
+            "landing": "Rejoignez notre communauté de célibataires matures et trouvez une connexion chaleureuse et significative. </br> Piscine de rencontres de la plus haute qualité.",
+            "joinNowFree": "Rejoins maintenant gratuitement",
+            "findNowFree": "Trouvez maintenant gratuitement",
+            "discover": "Découvrir plus",
+            "section1Header": "Un outil de recherche puissant qui permet aux célibataires de filtrer en fonction de ce qui compte",
+            "section1Desc": "En fonction de vos intérêts, nous nous assurons que vous trouviez ce dont vous avez besoin. </br> Si vous savez déjà qui vous souhaitez rencontrer, vous pouvez les trouver en utilisant leurs surnoms."
+        }
+    }
+]
